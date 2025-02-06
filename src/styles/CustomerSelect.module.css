@@ -1,0 +1,27 @@
+.customerSelect {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin: 16px 16px;
+  }
+  
+  label {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  select, input {
+    width: 250px;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  select:focus, input:focus {
+    outline: none;
+    border-color: #007bff;
+  }
+  

@@ -1,0 +1,27 @@
+.rewardDetails {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px auto;
+    width: 300px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    justify-content: center;
+  }
+  
+  .rewardDetails h2 {
+    font-size: 20px;
+    color: #333;
+  }
+  
+  .month {
+    font-size: 16px;
+    color: #555;
+  }
+  
+  .totalPoints {
+    font-size: 18px;
+    font-weight: bold;
+    color: #007bff;
+  }
+  
